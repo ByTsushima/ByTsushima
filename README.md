@@ -1,6 +1,6 @@
 <h1 align="center">Hi! 👋, I'm Tsushima.</h1>
 <h3 align="center">A passionate frontend developer from Turkey.</h3>
-(img align="right" alt="Coding" width="400" src="https://i.hizliresim.com/6o97mm5.gif")
+<img align="right" alt="Coding" width="400" src="https://i.hizliresim.com/6o97mm5.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bytsushima&label=Profile%20views&color=ff0000&style=plastic" alt="bytsushima" /> </p>
 
