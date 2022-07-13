@@ -1,6 +1,5 @@
 <h1 align="center">Hi! 👋, I'm Tsushima.</h1>
 <h3 align="center">A passionate frontend developer from Turkey.</h3>
-<img align="right" alt="Coding" width="400" "https://i.hizliresim.com/6o97mm5.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
