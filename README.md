@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tsushima</h1>
 <h3 align="center">A passionate frontend developer from Turkey.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bytsushima&label=%20views&color=306c9c&style=for-the-badge" alt="bytsushima" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bytsushima&label=%20views&color=510966&style=for-the-badge" alt="bytsushima" /> </p>
 
 <h3 align="center">Languages</h3>
 <p align="center">
