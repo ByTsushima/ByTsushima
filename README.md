@@ -1,6 +1,16 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/ByTsushima/ByTsushima/Main/Hello.webp" alt="hello"></center>
 
+<style>
+		body {
+			font-size: 70px;
+		}
+	</style>
+</head>
+<body>
+	<p>This is the revealed text!</p>
+</body>
+
 <p align="center">
 <h3 style="font-size: 80px;">Hi 👋, I'm Tsushima</h3></center>
 <h3 style="font-size: 60px;">A passionate frontend developer from Turkey.</h3></center>
