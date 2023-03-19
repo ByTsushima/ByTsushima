@@ -2,8 +2,8 @@
 <img src="https://raw.githubusercontent.com/ByTsushima/ByTsushima/Main/Hello.webp" alt="hello"></center>
 
 <p align="center">
-<h3 style="font-size: 70;">Hi 👋, I'm Tsushima</h3>
-<h3 style="font-size: 60;">A passionate frontend developer from Turkey.</h3></p>
+<h3 style="font-size: 80;">Hi 👋, I'm Tsushima</h3></center>
+<h3 style="font-size: 60;">A passionate frontend developer from Turkey.</h3></center>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bytsushima&label=%20views&color=510966&style=for-the-badge" alt="bytsushima" /> </p>
 
