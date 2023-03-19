@@ -1,4 +1,6 @@
-![MasterHead](https://raw.githubusercontent.com/ByTsushima/ByTsushima/Main/Hello.webp)
+<p align="center">
+<img src="https://raw.githubusercontent.com/ByTsushima/ByTsushima/Main/Hello.webp" alt="hello"></center>
+
 <h1 align="center">Hi 👋, I'm Tsushima</h1>
 <h3 align="center">A passionate frontend developer from Turkey.</h3>
 
