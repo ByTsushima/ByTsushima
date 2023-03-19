@@ -1,4 +1,4 @@
-![MasterHead](https://i.hizliresim.com/oyogum7.jpg)
+![MasterHead](https://i.hizliresim.com/nqyjzrl.png)
 <h1 align="center">Hi 👋, I'm Tsushima</h1>
 <h3 align="center">A passionate frontend developer from Turkey.</h3>
 
