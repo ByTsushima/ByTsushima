@@ -4,7 +4,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bytsushima&label=%20views&color=510966&style=for-the-badge" alt="bytsushima" /> </p>
 
-<img src="https://raw.githubusercontent.com/ByTsushima/ByTsushima/Main/Coding.webp" alt="snake"></center>
+<p align="center">
+<img src="https://raw.githubusercontent.com/ByTsushima/ByTsushima/Main/Coding.webp" alt="coding"></center>
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -30,6 +31,6 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/> </a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50"/> </a>
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/ByTsushima/ByTsushima/Main/Snake.svg" alt="snake"></center>
-
 </p>
