@@ -1,3 +1,8 @@
+h3{
+    padding: 0px;
+    margin: 0px;
+}
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/ByTsushima/ByTsushima/Main/Hello.webp" alt="hello"></center>
 
