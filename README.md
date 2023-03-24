@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/ByTsushima/ByTsushima/Main/Hello.webp" alt="hello"></center>
 
 <h1 align="center">Hi 👋, I'm Tsushima</h1>
-<h3 align="center">A passionate frontend developer from Turkey.</h3>
+<h3 align="center">A passionate backend developer from Turkey.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bytsushima&label=%20views&color=510966&style=for-the-badge" alt="bytsushima" /> </p>
 
